@@ -1,5 +1,5 @@
-<h3 align="center">Hi 👋, I'm Chavi Schatz</h3>
-<h5 align="center">a freelance fullstack developer with a fervor for coding and cultivating innovative ideas. Currently on the lookout for a position in a dynamic company where I can contribute significantly and advance my professional growth.🚀 I derive immense satisfaction from crafting novel concepts through code and find even greater joy in assisting others with their coding endeavors. 💡I'm open to feedback, eager for collaborations, and excited about exploring new opportunities. If you're in search of a developer, I'm here and ready to lend my expertise with a smile. Let's create something amazing together! 🌟</h5>
+<h2 align="center">Hi 👋, I'm Chavi Schatz</h2>
+a freelance fullstack developer with a fervor for coding and cultivating innovative ideas. Currently on the lookout for a position in a dynamic company where I can contribute significantly and advance my professional growth.🚀 I derive immense satisfaction from crafting novel concepts through code and find even greater joy in assisting others with their coding endeavors. 💡I'm open to feedback, eager for collaborations, and excited about exploring new opportunities. If you're in search of a developer, I'm here and ready to lend my expertise with a smile. Let's create something amazing together! 🌟
 
 - 📫 How to reach me **chavischatz@gmail.com**
 
