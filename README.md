@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 
-I'm Chava Shatz,
+### I'm Chava Shatz,
 a freelance fullstack developer with a fervor for coding and cultivating innovative ideas. 
 Currently on the lookout for a position in a dynamic company where I can contribute significantly and advance my professional growth.🚀
 I derive immense satisfaction from crafting novel concepts through code and find even greater joy in assisting others with their coding endeavors. 
